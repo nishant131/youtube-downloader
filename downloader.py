@@ -1,4 +1,3 @@
-# TODO: Update requirements.txt once [this PR](https://github.com/pytube/pytube/pull/1501) gets merged.
 from pytube import YouTube
 import os.path as path
 
